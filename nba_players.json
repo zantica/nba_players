@@ -1,0 +1,137 @@
+{
+    "nba_players": [
+            {
+                "id": 1,
+                "name": "Lebron James",
+                "team": "Lakers",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Ohio",
+                "image": "https://media.revistagq.com/photos/601a9cd296421469deb60cdf/master/pass/GettyImages-1230069437.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Anthony Davies",
+                "team": "Lakers",
+                "position": "Center",
+                "height": "201",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Los Angeles",
+                "image": "https://nba-pasion.com/wp-content/uploads/2021/05/%C2%A1Primera-actualizacion-importante-sobre-Anthony-Davis.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Russell Westbrook",
+                "team": "Lakers",
+                "position": "Point Guard",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Oklahoma",
+                "image": "https://sportshub.cbsistatic.com/i/r/2021/10/09/5e2b185e-d437-4331-96bc-ede27202b5f9/thumbnail/1200x675/73adc32175f830d3f069c3d2a2eec031/russell-westbrook-lakers.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Facundo Campazzo",
+                "team": "Nuggets",
+                "position": "Alive",
+                "height": "180",
+                "weight": "75",
+                "gender": "Male",
+                "origin": "Argentina",
+                "image": "https://resizer.glanacion.com/resizer/FcqCEgAxTwCQ5Seq-xtPPtuHqhk=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YGB5OOWDQBE6FM5TJCUZRLSENI.JPG"
+            },
+            {
+                "id": 5,
+                "name": "Nikola Jokic",
+                "team": "Nuggets",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Serbia",
+                "image": "https://phantom-marca.unidadeditorial.es/7884b3ffae52e29915cbc48bec8c872b/assets/multimedia/imagenes/2020/06/05/15913503737356.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Michael Porter Jr",
+                "team": "Nuggets",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "USA",
+                "image": "https://d3h7g948tee6ho.cloudfront.net/wp-content/uploads/2021/09/michale-porter-jr-e1632786511697.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Luka Doncic",
+                "team": "Mavericks",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Eslovenia",
+                "image": "https://www.basquetplus.com/sites/default/files/main/articles/luka%20doncic.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Kristaps Porzingis",
+                "team": "Mavericks",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "Lituania",
+                "image": "https://media.wfaa.com/assets/WFAA/images/3afa0078-027a-4001-9bb0-4a963c8e143b/3afa0078-027a-4001-9bb0-4a963c8e143b_1140x641.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Dorian Finney-Smith",
+                "team": "Mavericks",
+                "position": "Alive",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "USA",
+                "image": "https://www.pilotonline.com/resizer/B5eBqar0vVOfS9LIc8J4CGKjzfs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SSMMMB452VBP7OGBZAZCOAYWBY.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Klay Thompson",
+                "team": "Warriors",
+                "position": "Shooting Guard",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "USA",
+                "image": "https://www.gigantes.com/wp-content/uploads/2018/05/Klay-Thompson-e1527409265231.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Stephen Curry",
+                "team": "Warriors",
+                "position": "Point Guard",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "USA",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/8a14753/2147483647/strip/true/crop/4154x2769+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F92%2F5601a92a47db9e82eb07f890e81a%2Fhawks-warriors-23470.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Draymond Green",
+                "team": "Warriors",
+                "position": "Center",
+                "height": "200",
+                "weight": "115",
+                "gender": "Male",
+                "origin": "USA",
+                "image": "https://www.blogdebasket.com/files/draymond-green-gsw-2_0.jpg"
+            }
+    ]
+
+}
